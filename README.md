@@ -62,11 +62,8 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 <td width=50%>
 
 ## STM 32 CUBE PROGRAM:
-```
-Name: Saravana Kumar S
-Reg.NO: 212221230088
-```
-
+### Name: Saravana Kumar S
+### Reg.No: 212221230088
 ```
 #include "main.h"
 #include "stdbool.h"
@@ -102,10 +99,10 @@ void push_button()
 
 ## Output: 
 ###  LED Off:
-<img src="image1.jpg" alt="ledoff" width="400" height="500" >
+<img src="image1.jpg" alt="ledoff" width="250" height="350" >
 
 ### LED On:
- <img src="image2.jpg" alt="ledon" width="400" height="500" >
+ <img src="image2.jpg" alt="ledon" width="250" height="350" >
  
  
  
